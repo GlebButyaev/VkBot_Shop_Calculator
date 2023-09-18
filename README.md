@@ -5,7 +5,7 @@
 
 
 > Бот присылает сообщение новому полльзователю группы.
-> ![image](https://github.com/GlebButyaev/VkBot_Shop_Calculator/assets/86189535/06bac9a2-5691-4eb0-bd41-bf17ffbbe476)
+![image](https://github.com/GlebButyaev/VkBot_Shop_Calculator/assets/86189535/06bac9a2-5691-4eb0-bd41-bf17ffbbe476)
 
 
 
